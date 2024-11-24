@@ -1,23 +1,22 @@
 ---
 
-# 👨‍💻 Junior Data Scientist Portfolio 📊
+# 👨‍💻 Data Analyst Portfolio 📊
 
-Welcome to my Data Science Portfolio! 🚀 This repository showcases a collection of projects and analyses that I've worked on as part of my journey as a Junior Data Scientist. It includes various datasets, machine learning models, and data visualizations to demonstrate my skills in data wrangling, statistical analysis, and predictive modeling. 🔍📈
+Welcome to my Data Analyst Portfolio! 🚀 This repository highlights various data-driven projects and analyses that showcase my ability to transform raw data into actionable insights. 🧠📈 From cleaning datasets to creating compelling visualizations, this portfolio represents my journey and passion for data analytics. 
 
 ## 📂 Contents:
-- **Exploratory Data Analysis (EDA)**: Projects involving data cleaning, feature engineering, and visual exploration. 🧹🔧
-- **Machine Learning Models**: Implementations of supervised and unsupervised learning algorithms such as regression, classification, and clustering. 🤖📚
-- **Data Visualizations**: Beautiful and insightful charts, graphs, and plots to convey findings. 📊✨
-- **Project Documentation**: Detailed explanations of each project, including methodologies, results, and conclusions. 📝🔍
+- **Data Cleaning & Preparation**: Projects showcasing data wrangling, transformation, and preparation for analysis. 🧹🔧
+- **Exploratory Data Analysis (EDA)**: Uncovering patterns, trends, and correlations within datasets. 🔍📊
+- **Dashboards & Reports**: Interactive dashboards and detailed reports to present insights. 📑📊
+- **Case Studies**: In-depth analyses to solve real-world business problems using data. 💡📉
 
 ## 🛠️ Technologies and Tools:
-- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) 🐍📊
-- Jupyter Notebooks 📓💻
+- Python (Pandas, NumPy, Matplotlib, Seaborn) 🐍📊
 - SQL 🗃️
 - Tableau/Power BI (for visualization) 📊🎨
+- Excel (Advanced) 📈📋
 - Git/GitHub 🖥️🔗
 
-Feel free to explore the projects, and if you have any questions or suggestions, don't hesitate to reach out! 💬👋
+Feel free to explore my work and let me know your thoughts or suggestions. 💬👋 Your feedback is always welcome!
 
 ---
-
